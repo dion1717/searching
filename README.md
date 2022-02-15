@@ -1,2 +1,2 @@
 # searching
--
+binary & sequential searching
