@@ -1,0 +1,3 @@
+linear searching adalah sebuah program dimana kita disuruh menginputkan jumlah input data, kemudian kita diminta
+untuk memasukkan jumlah interger. Kemudian program akan menampilkan cari angka dan kita diminta untuk menginputkan
+interger yang kita cari. Program juga akan menampilkan pencarian angka sama yang tersimpan pada index.
